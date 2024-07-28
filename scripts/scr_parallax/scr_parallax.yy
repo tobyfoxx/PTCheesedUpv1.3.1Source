@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_parallax",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_parallax",
+  "parent":{
+    "name":"Background",
+    "path":"folders/Scripts/General/Background.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

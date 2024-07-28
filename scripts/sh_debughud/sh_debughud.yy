@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sh_debughud",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sh_debughud",
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Scripts/CheesyPizza/Shell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

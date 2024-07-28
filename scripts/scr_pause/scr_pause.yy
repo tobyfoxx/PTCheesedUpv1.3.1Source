@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_pause",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_pause",
+  "parent":{
+    "name":"Systems",
+    "path":"folders/Scripts/Systems.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

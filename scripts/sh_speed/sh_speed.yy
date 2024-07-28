@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sh_speed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sh_speed",
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Scripts/CheesyPizza/Shell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sh_bind",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sh_bind",
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Scripts/CheesyPizza/Shell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

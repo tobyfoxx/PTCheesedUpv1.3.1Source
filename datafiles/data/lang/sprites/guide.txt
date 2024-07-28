@@ -1,0 +1,17 @@
+The "en" folder name corresponds with the lang value set in english.txt
+If you have deutsch.txt with lang = "de" in it, you make a folder called de
+
+The filename of the sprites have to match with the internal sprite name
+(You can't add new sprites with this)
+
+By default the sprite origin and size will not change
+So export as a sprite sheet, with however many frames you want, but it HAS to be the same size as the original, unless you add extra info into the data.ini:
+
+[sprite_name]
+images = <frame count>
+xoffset = <horizontal center point>
+yoffset = <vertical center point>
+
+If you provide that info it will replace the sprite size, frame count and origin. There are examples in the "en" folder, though you usually wouldn't need to change sprite sizes
+
+You can even make entire Peppino reskin mods, as long as you know how!

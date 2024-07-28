@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_set_mask",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_set_mask",
+  "parent":{
+    "name":"Clipping",
+    "path":"folders/Scripts/CheesyPizza/Drawing/Clipping.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

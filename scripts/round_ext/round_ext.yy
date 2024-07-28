@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"round_ext",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"round_ext",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/CheesyPizza/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

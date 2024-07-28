@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_set_flash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_set_flash",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Scripts/CheesyPizza/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

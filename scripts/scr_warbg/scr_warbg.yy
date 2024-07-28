@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_warbg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_warbg",
+  "parent":{
+    "name":"Background",
+    "path":"folders/Scripts/General/Background.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

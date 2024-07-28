@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_sin",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_sin",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/CheesyPizza/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

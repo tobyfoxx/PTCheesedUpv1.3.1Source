@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"steam_deck",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"steam_deck",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/CheesyPizza/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

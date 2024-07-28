@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_room_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_room_functions",
+  "parent":{
+    "name":"Room",
+    "path":"folders/Scripts/CheesyPizza/Utility/Room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

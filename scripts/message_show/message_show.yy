@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"message_show",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"message_show",
+  "parent":{
+    "name":"CheesyPizza",
+    "path":"folders/Scripts/CheesyPizza.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gameframe_macros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gameframe_macros",
+  "parent":{
+    "name":"Gameframe",
+    "path":"folders/Scripts/Systems/Gameframe.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_fakepeppino_hit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_fakepeppino_hit",
+  "parent":{
+    "name":"Fakepep",
+    "path":"folders/Scripts/Baddies/Fakepep.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,5 @@
+NOTES
+
+Most PLN assets are placeholder until actually got some replacements
+Freezer OLD has placeholder secret placements
+use "room_empty" for new, custom rooms

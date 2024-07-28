@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sh_crash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sh_crash",
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Scripts/CheesyPizza/Shell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

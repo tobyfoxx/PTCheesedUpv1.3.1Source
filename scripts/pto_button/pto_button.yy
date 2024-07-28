@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"pto_button",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pto_button",
+  "parent":{
+    "name":"CheesyPizza",
+    "path":"folders/Scripts/CheesyPizza.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

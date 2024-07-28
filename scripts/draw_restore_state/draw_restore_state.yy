@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_restore_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_restore_state",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Scripts/CheesyPizza/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

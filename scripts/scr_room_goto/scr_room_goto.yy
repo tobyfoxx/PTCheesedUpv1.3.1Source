@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_room_goto",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_room_goto",
+  "parent":{
+    "name":"GMLive",
+    "path":"folders/Scripts/General/GMLive.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

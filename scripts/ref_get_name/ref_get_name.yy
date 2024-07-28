@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ref_get_name",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ref_get_name",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/CheesyPizza/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

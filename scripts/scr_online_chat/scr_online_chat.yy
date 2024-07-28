@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_online_chat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_online_chat",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Online/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

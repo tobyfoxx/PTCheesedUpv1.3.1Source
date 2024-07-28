@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_reset_clip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_reset_clip",
+  "parent":{
+    "name":"Clipping",
+    "path":"folders/Scripts/CheesyPizza/Drawing/Clipping.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,2 @@
+stepped = false;
+sugary = false;

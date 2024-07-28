@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_ispeppino",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ispeppino",
+  "parent":{
+    "name":"CheesyPizza",
+    "path":"folders/Scripts/CheesyPizza.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"string_get_substring",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_get_substring",
+  "parent":{
+    "name":"String",
+    "path":"folders/Scripts/CheesyPizza/Utility/String.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

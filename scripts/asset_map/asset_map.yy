@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"asset_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"asset_map",
+  "parent":{
+    "name":"CheesyPizza",
+    "path":"folders/Scripts/CheesyPizza.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

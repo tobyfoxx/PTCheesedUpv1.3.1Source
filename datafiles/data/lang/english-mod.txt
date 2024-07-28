@@ -1,0 +1,531 @@
+# ---------------
+# IMPORTANT NOTE
+# ---------------
+# This file may be updated between releases.
+# Keep that in mind if you want to maintain translations.
+# It also contains spoilers for some secrets...
+
+# -----------------
+# LANGUAGE MERGING
+# -----------------
+# In this mod, if multiple language files have
+# the same lang value, they will merge:
+
+lang = "en"
+
+# This means you can split the single language
+# into several .txt files, as long as you put that
+# somewhere in the file.
+
+# --------------------
+# CUSTOM FONT SUPPORT
+# --------------------
+# font_small_dir = "fonts/font_small_en.png"
+# font_small_map = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!._1234567890:;?▯|*/',\"()=-+@█%~ÁÉÍÓÚáéíóúÑñ[]<>$"
+# font_small_sep = "-1"
+# sugarypromptfont_dir = "fonts/sugarypromptfont_en.png"
+# sugarypromptfont_map = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.:!0123456789?'\"ÁÉÍÓÚáéíóú_-[]▼()&#风雨廊桥전태양*яиБжидГзвбнль"
+# sugarypromptfont_sep = "0"
+# smallfont_ss_dir = "fonts/smallfont_ss_en.png"
+# smallfont_ss_map = "ABCDEFGHIJKLMNOPQRSTUVWXYZ!.:?1234567890-"
+# smallfont_ss_sep = "0"
+# bigfont_ss_dir = "fonts/bigfont_ss_en.png"
+# bigfont_ss_map = "ABCDEFGHIJKLMNOPQRSTUVWXYZ!.0123456789:- "
+# bigfont_ss_sep = "-1"
+# 
+# Read up about this in english.txt
+
+font_small = "font_small_en"
+sugarypromptfont = "sugarypromptfont_en"
+smallfont_ss = "smallfont_ss_en"
+bigfont_ss = "bigfont_ss_en"
+
+# -------------
+# OPTIONS TEXT
+# -------------
+base_version_prefix = "PT "
+mod_version_prefix = "CU "
+
+option_modded = "MODDED"
+option_gameframe = "GAMEFRAME" # This is the name of the extension, not a word.
+option_unfocus_pause = "UNFOCUSED PAUSE"
+option_active = "ACTIVE"
+option_opacity = "OPACITY"
+option_reboot = "REBOOT TO SAVE AND APPLY CHANGES"
+
+option_lap_lapmode = "LAPPING MODE"
+option_lap_normal = "NORMAL"
+option_lap_infinite = "INFINITE"
+option_lap_laphell = "LAP HELL"
+option_lap_parry = "PARRY PIZZAFACE"
+option_lap_parry_sugary = "PARRY CONEBALL"
+option_lap_checkpoints = "CHECKPOINTS"
+option_lap_lap3 = "LAP 3"
+option_lap_lap4 = "LAP 4"
+option_lap_both = "BOTH"
+option_lap_changes = "LEVEL CHANGES"
+option_lap_blocks = "LAP BLOCKS"
+option_lap_slowdown = "SLOW DOWN"
+
+option_tooltip_expand = "Very buggy!"
+option_tooltip_expand2 = "You have to turn on experimental mode to enable this."
+option_tooltip_lapmode1 = "Base game lapping."
+option_tooltip_lapmode2 = "Clocks and bells start giving you time from Lap 3 onward."
+option_tooltip_lapmode3 = "A challenge awaits you on the third lap!"
+option_tooltip_checkpoints = "Only in Lap Hell."
+option_tooltip_changes1 = "Good luck."
+option_tooltip_changes2 = "Changes the layout on certain rooms on Lap 3, like ELM."
+option_tooltip_changes3 = "Slows down % on certain rooms on Lap 3, like Lap Hell."
+option_pizzaface = "Pizzaface"
+option_coneball = "Coneball"
+
+# ----------
+# MISC TEXT
+# ----------
+secret_text1_mod = "{u}You have found % secret out of %!/"
+secret_text2_mod = "{u}You have found % secrets out of %!/"
+hurt_mod = "{s}You've hurt % % times.../"
+toppin_text1 = "{u}You have found % Toppins out of %!/"
+toppin_text2 = "{u}You have found % Toppin out of %!/"
+toppin_text1ss = "{u}You have found % Confecti out of %!/"
+toppin_text2ss = "{u}You have found % Confecti out of %!/"
+sugarygate_line1 = "% POINTS - % LAPS"
+sugarygate_line2 = "% OF % SECRETS"
+wrongkey = "{s}That key doesn't fit here.../"
+pause_jukebox = "CLEAR JUKEBOX"
+pause_exit_menu = "EXIT MENU"
+
+# -----------
+# MOD CONFIG
+# -----------
+mod_section_gameplay = "Gameplay"
+mod_section_input = "Input"
+mod_section_visual = "Visual"
+mod_section_misc = "Misc"
+mod_section_online = "Online"
+
+mod_title_gameplay = "REMIX"
+mod_title_experimental = "Experimental"
+mod_title_attackstyle = "Attack Style"
+mod_title_shootstyle = "Shoot Style"
+mod_title_doublegrab = "Grab Special"
+mod_title_uppercut = "Buffed Uppercut"
+mod_title_poundjump = "Groundpound Jump"
+mod_title_heatmeter = "Heat Meter"
+mod_title_lapping = "Lapping"
+mod_title_holidayoverride = "Holiday Override"
+mod_title_swapgrab = "Swap Grab"
+mod_title_shootbutton = "Separate Shoot"
+mod_title_inputdisplay = "Input Display"
+mod_title_afterimage = "Afterimages"
+mod_title_panicbg = "Panic Background"
+mod_title_sloperot = "Slope Rotation"
+mod_title_enemyrot = "Enemy Spin"
+mod_title_showfps = "FPS Counter"
+mod_title_secrettiles = "Secret Style"
+mod_title_smoothcam = "Smooth Camera"
+mod_title_hud = "Hud Style"
+mod_title_blockstyle = "Asset Style"
+mod_title_roomnames = "Room Names"
+mod_title_machsnd = "Mach Sound"
+mod_title_sugaryoverride = "Sugary Overrides"
+mod_title_performance = "Performance Mode"
+mod_title_richpresence = "Rich Presence"
+mod_title_vigisuperjump = "Vigilante S-Jump"
+mod_title_iteration = "Gameplay Style"
+mod_title_hitstun = "Hitlag"
+
+mod_title_online_opacity = "Player Opacity"
+mod_title_online_bubbles = "Bubble Style"
+mod_title_online_volume = "SFX Volume"
+mod_title_online_minichat = "Mini Chat"
+mod_title_online_name_opacity = "Name Opacity"
+mod_title_online_name_smooth = "Smooth Names"
+
+mod_desc_gameplay = "Adds extra quality of life improvements to a bunch of stuff."
+mod_desc_experimental = "Allows access to fun console commands and other WIP stuff. Please do not report bugs from these!"
+mod_desc_attackstyle = "Alternatives to the basic grab move. The original grab is moved to the CHAINSAW button."
+mod_desc_shootstyle = "Extra attacks bound to the SHOOT button. Change it in the key config."
+mod_desc_doublegrab = "Press the GRAB button twice to attack with the chosen move."
+mod_desc_uppercut = "Keeps your momentum when uppercutting, and you can press down to fall down faster."
+mod_desc_poundjump = "Hold or press jump when landing from a ground pound to jump higher."
+mod_desc_heatmeter = "Rewards good gameplay with more points, but harder enemies!"
+mod_desc_lapping = "Modify lapping to your heart's content."
+mod_desc_holidayoverride = "Overrides the current in-game seasonal event."
+mod_desc_swapgrab = "Binds the grab back to the normal bind, and moves whatever attack style you have to the CHAINSAW button."
+mod_desc_shootbutton = "Move the shoot button for both the pistol and the shotgun to a standalone SHOOT button, A by default."
+mod_desc_inputdisplay = "An in-game input display. You can drag it around with your mouse."
+mod_desc_afterimage = "Choose between normal and blue afterimages for certain moves."
+mod_desc_panicbg = "Brings back the wavy background effect from old builds when escaping."
+mod_desc_sloperot = "Rotates the player when standing on a slope."
+mod_desc_enemyrot = "Makes dead enemies spin in the air."
+mod_desc_showfps = "Shows an FPS counter at the bottom right of the screen."
+mod_desc_secrettiles = "Choose how you want secret walls to be shown."
+mod_desc_smoothcam = "Smooths out the camera. Wow!"
+mod_desc_hud = "Choose between the early HUD and the final one."
+mod_desc_blockstyle = "Just for you, face block fans."
+mod_desc_roomnames = "Each room in a level will show a unique name, like in the hub."
+mod_desc_machsnd = "Choose between the normal version of the mach sound or an older one."
+mod_desc_sugaryoverride = "Makes normal levels Sugary Spire themed when playing as Pizzelle or Pizzano."
+mod_desc_performance = "Disables a bunch of stuff that would slow down the game."
+mod_desc_richpresence = "Show what you're doing in-game in your Discord profile."
+mod_desc_vigisuperjump = "Vigilante was meant to be harder, but some people have a skill issue. You can Super Jump from dynamite directly under you, or just make Vigilante a Peppino clone."
+mod_desc_iteration = "Pizza Tower changed a lot throughout its development. Some people may prefer the moveset and logic from older versions."
+mod_desc_hitstun = "When you hit an enemy, there's a small window of lag for the impact. You can toggle it off, or use the SAGE version of it."
+
+mod_desc_online_opacity = "How transparent other players appear."
+mod_desc_online_bubbles = "Speech bubble style."
+mod_desc_online_volume = "How loud synced sound effects are."
+mod_desc_online_minichat = "Toggles a small chat display in the bottom left corner."
+mod_desc_online_name_opacity = "How transparent player names appear."
+mod_desc_online_name_smooth = "Static names or wavy names."
+
+mod_condition_lapping = "Can't change this while lapping."
+mod_condition_holidayoverride = "Go back to the main menu\nto change this!"
+mod_experimental = "Experimental's off!"
+mod_ballsack = "BALLSACK CITY"
+mod_drpc2 = "boring shit"
+
+mod_off = "OFF"
+mod_on = "ON"
+mod_grab = "GRAB"
+mod_kungfu = "KUNG FU"
+mod_shoulderbash = "SHOULDER BASH"
+mod_lunge = "LUNGE" # If you rename this to pummel I will murder you
+mod_none = "NONE"
+mod_pistol = "PISTOL"
+mod_breakdance = "BREAKDANCE"
+mod_chainsaw = "CHAINSAW"
+mod_faceplant = "FACEPLANT"
+mod_halloween = "HALLOWEEN"
+mod_shotgunonly = "SHOTGUN ONLY"
+mod_onblur = "ON + BLUR"
+mod_normal = "NORMAL"
+mod_spotlight = "SPOTLIGHT"
+mod_dynamite = "BOMB JUMP"
+mod_mach3 = "PEPPINO"
+mod_pto = "PTO"
+mod_ptt = "PTT"
+
+mod_old = "EARLY"
+mod_bnf = "JULY 2020"
+mod_april = "APRIL 2021"
+mod_september = "SEPT 2021"
+mod_eggplant = "JUNE 2022"
+mod_final = "FINAL"
+
+mod_saved = "{u}Settings saved!/"
+
+# -----------
+# MODIFIERS
+# -----------
+mod_section_modifiers = "Modifiers"
+mod_section_level = "Level"
+
+mod_title_ok = "OK"
+mod_title_encore = "Encore"
+mod_title_deathmode = "Death Mode"
+mod_title_oldlevels = "Old Levels"
+mod_title_notoppings = "Toppingless"
+mod_title_pacifist = "Pacifist"
+mod_title_hardmode = "Hard Mode"
+mod_title_mirror = "Mirrored"
+mod_title_johnghost = "John Ghost"
+mod_title_spotlight = "Lights Out"
+mod_title_fromthetop = "From The Top"
+mod_title_gravityjump = "VVVVVV"
+mod_title_doubletrouble = "Double Trouble"
+mod_title_grincheasy = "Easy Mode"
+mod_title_golfeasy = "Easy Mode"
+mod_title_snickeasy = "No Snick"
+mod_title_ctoplaps = "Lappable"
+mod_title_ordered = "In Order"
+mod_title_secretinclude = "Extra Secrets"
+mod_title_panic = "Panic"
+mod_title_greendemon = "Green Demon"
+mod_title_hydra = "Hydra"
+mod_title_golf = "GOLF"
+
+mod_desc_ok = "Start the level."
+mod_desc_encore = "Remixes the level to make it harder."
+mod_desc_deathmode = "Avoid Pizzaface within a very tight timer!"
+mod_desc_oldlevels = "A more accurate Snick's Challenge, using level design closer to the SAGE 2019 demo."
+mod_desc_notoppings = "Makes all toppings, clocks and bells DEADLY!"
+mod_desc_pacifist = "Murdering is punishable by death. Don't kill any enemies!"
+mod_desc_hardmode = "A placeholder entity will rain enemies upon you!"
+mod_desc_mirror = "Experience the horrors of graphics that weren't supposed to be facing left."
+mod_desc_johnghost = "Once you pass the first room, the John ghost from Wasteyard will start spawning!"
+mod_desc_spotlight = "The size of the spotlight is tied to your combo time. Grab collectibles and kill enemies to enlarge it!"
+mod_desc_fromthetop = "John and the exit gate are swapped on the first lap!"
+mod_desc_gravityjump = "Your jump is replaced with a gravity flip!"
+mod_desc_doubletrouble = "Duplicates every single enemy!"
+mod_desc_grincheasy = "Gets rid of the snowman blocks."
+mod_desc_golfeasy = "Gets rid of the golf blocks."
+mod_desc_snickeasy = "More of a World 1 timed challenge without that bastard following you around."
+mod_desc_ctoplaps = "Adds a lap portal to CTOP. Lap 2 will give you 2 extra minutes."
+mod_desc_ordered = "Introduces every secret in proper level order, instead of being randomized."
+mod_desc_secretinclude = "Includes the Scrap Basement's secrets.\nCurrent version: 2, adds 7"
+mod_desc_panic = "It's Pizza Time!"
+mod_desc_greendemon = "Avoid a deadly 1-up throughout the entire level!"
+mod_desc_hydra = "Cut off a head, two more will take its place."
+mod_desc_golf = "Use your cursor to... move."
+
+# ---------------
+# WINDOW CAPTIONS
+# ---------------
+caption_soundtest = "A rave in the Pizza Tower"
+caption_serious = "Pizza Tower"
+caption_towerextra = "Can't get enough Pizza Tower"
+caption_towersugary = "So this is the Sugary Spire"
+caption_undefined = "undefined"
+caption_cyop = "Create Your Own Pizza Tower"
+caption_editormenu = "Select your Pizza Tower"
+caption_grinch = "Pizza Tower sucks"
+caption_midway = "A Mid in Pizza Way Tower"
+caption_strongcold = "Christmas at the Pizza Tower"
+caption_snickchallenge = "Porcupine flavored Pizza Tower"
+caption_characterselect = "Choosing your Pizza Tower"
+
+caption_boss_snotty = "Shooting at a cowboy snot person in the Pizza Tower"
+
+caption_rank_ss = "You did it! Sugary Spire!"
+caption_entryway = "Construction underway at the Sugary Spire"
+caption_steamy = "Downtown Sugary Spire"
+caption_molasses = "Sugary Spire's natural habitat"
+caption_sucrose = "A Sugary storm in the Spire"
+
+caption_e_medieval = "The exorcist's Pizza Tower"
+
+# -----------------------
+# ROOM NAMES (not levels)
+# -----------------------
+room_towerextra = "SCRAP BASEMENT"
+room_towerextra2 = "EXTRA TOWER"
+room_freerun = "FREERUNNING"
+room_hubroomE = "ABANDONED TOWER"
+room_towerbaby = "PIZZA TOWER ISLAND"
+room_towersage = "SAGE"
+room_towersugary = "THE SUGARY SPIRE"
+room_towerpizzaboy = "UNDEFINED"
+
+# -----------------
+# HUB TIPS
+# -----------------
+grannyextra = "The levels past this point were restored from older versions of the tower, most of which don't fit very well here. While some of them are refurbished, the rest are pretty tedious to play!"
+grannyextra2 = "This part of the basement includes old concepts brought to life, collaborations with other projects and even brand new original levels. It's a bit lacking right now, though. Maybe you could help with that...?"
+grannysugary = "This floor of the tower may contain spoilers for Sugary Spire. Proceed with caution!"
+
+# -----------------
+# HUB GARBAGE
+# -----------------
+garbage1V = "Did you know that your full name is Vigert Ebenezer Lantte? That's unfortunate."
+garbage1X = "Did you know that nobody will remember you? That's unfortunate."
+garbage1G = "Did you know that rats only live up to 2 years? That's unfortunate."
+garbage2X = "If you hurt % too much, you can go to hell!"
+garbage5G = "I don't know how that rat can carry so much."
+garbage6X = "I'm going to go ahead and talk about something that I've been telling others who know about this place of worship that you did this. Well, we're down from Peppino's pizzeria, and we're down from this tower. There are customers, and they want to see one of these things. So I got a friend, he went down one of the floors and this guy came up next to me, and the idea was, why is it that when you're in the upper part of the tower there is this Pizzaface character, then there's a man from your previous life leading the way? There's a pizza in your tower with all this information."
+garbage13X = "Find a job, moron."
+
+# -----------
+# DRESSER
+# -----------
+dresser_palettes = "PALETTES"
+dresser_customize = "CUSTOMIZE"
+dresser_new_title = "NEW PALETTE"
+dresser_new_desc = "Create your own palette."
+dresser_new_help = "Use your mouse!\n\nDrag the sliders to change colors\nClick on the player to save\n\nPress % to cancel";
+
+# ----------
+# COSMETICS
+# ----------
+hat_nonetitle = "No Hat"
+hat_none = "Don't you already have one?"
+hat_cowboytitle = "Cowboy Hat"
+hat_cowboy = "Yeehaw!"
+hat_duncetitle = "Dunce Hat"
+hat_dunce = "Shame on you."
+hat_goldentitle = "Golden Crown"
+hat_golden = "A relic left behind from the medieval times."
+hat_uwunyatitle = "Cat Ears"
+hat_uwunya = "mmmrp mrrow nya :3"
+
+pet_nonetitle = "No Pet"
+pet_none = "All alone..."
+pet_noiserattitle = "Noi"
+pet_noiserat = "se"
+pet_berrytitle = "Berry"
+pet_berry = "The one and only blue tin can."
+pet_snecktitle = "Sneck"
+pet_sneck = "He's here for you."
+pet_boykisstitle = "Boykisser"
+pet_boykiss = "me when uhmmm ummm men men boys i like boys i'm a boy liker i like kissing men on the lips"
+pet_rushtitle = "Mini Rush"
+pet_rush = "Unknown innofensive creature, or dog.\nFeed him with mayo."
+pet_viviantitle = "Vivian"
+pet_vivian = "Best avoid her fiery jinx."
+pet_goochtitle = "Pizzapet"
+pet_gooch = "Looks oddly familiar..."
+
+# ----------------
+# TRANSFOTIP TEXT
+# ----------------
+songchoicetip = "{u}Turn up your volume./"
+songchoicestop = "{u}[c] Stop Music/"
+checkpointset = "{u}Checkpoint Set!/"
+snickiscoming = "{s}% is coming.../"
+resetleveldata = "{s}Reset level data/"
+screenshottaken = "{u}Screenshot taken!/"
+deathcheckpoint = "{u}[T] Load Checkpoint/"
+deathrestart = "{u}[T] Restart Level/"
+
+modifiertip = "{u}[T] Level Settings/"
+cottontip = "{u}[J][J] Double Jump [G] Attack/"
+mixingtip = "{u}[M] Mix Palettes/"
+noisetypetip = "{u}[T] Change Moveset/"
+secretstyletip = "{u}[T] Change Style/"
+vigihooktip = "{u}[S] Grapple/"
+
+# ------------
+# EDITOR MENU
+# ------------
+cyop_delete = "[q] Delete"
+cyop_play = "[c] Play"
+cyop_modifiers = "[T] Level Settings"
+cyop_deleteconfirm = "{u}[q][c] Delete [b] Cancel/"
+cyop_browse = "Browse towers"
+cyop_openfolder = "Open towers folder"
+cyop_pickfile = "Pick file..."
+cyop_filekind = "CYOP Tower"
+cyop_nolevels = "No levels found!"
+cyop_page = "Page: %"
+cyop_thousand = "K" # 25K views
+cyop_download = "Download"
+cyop_downloaded = "Play"
+cyop_downloaded_busy = "Downloaded"
+cyop_error = "(Not a tower)"
+cyop_finding = "Finding..."
+cyop_downloading = "Downloading..."
+cyop_extracting = "Extracting..."
+cyop_levelstats = "Views: %\nLikes: % - Posts: %"
+cyop_openbrowser = "Open on browser"
+cyop_close = "Close"
+cyop_gotopage = "Go to page:"
+cyop_sortby = "Sort by"
+cyop_sortviews = "Views"
+cyop_sortdownloads = "Downloads"
+cyop_sortlikes = "Likes"
+cyop_filterby = "Filter by"
+cyop_filterfeatured = "Featured"
+cyop_filterwip = "WIP"
+cyop_wait1 = "Downloading 1 level"
+cyop_wait2 = "Downloading % levels"
+cyop_tip = "Select a level with your mouse!"
+cyop_error_generic = "GameBanana messed up! Try again."
+cyop_error_empty = "No downloads available!"
+cyop_error_rar = "Can't extract .rar towers!"
+cyop_error_json = "This is a .json mod!"
+cyop_error_nonzip = "Unknown file format %!"
+cyop_error_corrupt = "Failed to extract!"
+cyop_error_mod = "This mod is not a CYOP tower!"
+cyop_error_wtf = "Couldn't move directory?"
+cyop_error_page = "Page not found!"
+cyop_error_search = "No submissions found!"
+
+# ------------
+# MBROS
+# ------------
+msdos_start1 = "Starting MB-ROS..."
+msdos_start2 = "Type \"help\" for a list of commands."
+msdos_bad = "Bad command or file name"
+msdos_invalid = "Invalid directory"
+msdos_short = "Required parameter missing"
+msdos_exists = "Directory already exists"
+msdos_invalid2 = "Invalid path, not directory,\nor directory not empty"
+msdos_ominous = "M"
+msdos_congratulation = "Congratulation"
+msdos_pause = "Press any key to continue . . ."
+
+msdos_help = "..."
+msdos_help0 = "Hello..."
+msdos_help1 = "You know the Mario Brother?"
+msdos_help2 = "Trust me."
+msdos_help3 = "Listen, there is a file you have to find. Do you understand?"
+msdos_help4 = "LISTEN TO ME."
+msdos_help5 = "You NEED to know the year SUPER Mario Bros. on the\nNES released okay? That is a FOLDER. You HAVE to go there."
+msdos_help6 = "We're golden..."
+msdos_help7 = "Okay now LISTEN, there is a file."
+msdos_help8 = "A very important file."
+msdos_help9 = "You need to RUN this file, okay?"
+msdos_help10 = "The file name is..."
+# You will not foil my plans
+msdos_help12 = "RUN the % file NOW."
+
+msdos_help90 = "What the fuck are you doing?"
+msdos_help91 = "Please don't ask me how to switch folders."
+msdos_help92 = "Please"
+msdos_help93 = "I beg you"
+msdos_help94 = "For the love of god"
+
+# -------------
+# LEVEL TITLES
+# -------------
+level_tutorial = "Tutorial"
+level_entrance = "John Gutter"
+level_medieval = "Pizzascape"
+level_ruin = "Ancient Cheese"
+level_dungeon = "Bloodsauce Dungeon"
+level_badland = "Oregano Desert"
+level_graveyard = "Wasteyard"
+level_farm = "Fun Farm"
+level_saloon = "Fast Food Saloon"
+level_plage = "Crust Cove"
+level_forest = "Gnome Forest"
+level_minigolf = "GOLF"
+level_space = "Deep-Dish 9"
+level_street = "The Pig City"
+level_sewer = "Oh Shit!"
+level_industrial = "Peppibot Factory"
+level_freezer = "Refrigerator-Refrigerador-Freezerator"
+level_chateau = "Pizzascare"
+level_kidsparty = "Don't Make A Sound"
+level_war = "WAR"
+level_exit = "The Crumbling Tower Of Pizza"
+level_secretworld = "Secrets Of The World"
+
+boss_pepperman = "Pepperman"
+boss_vigilante = "The Vigilante"
+boss_snotty = "The Green"
+boss_noise = "The Noise"
+boss_doise = "The Doise"
+boss_fakepep1 = "Peppino"
+boss_fakepep2 = "Fake Peppino"
+
+level_strongcold = "Strongcold"
+level_etb = "Early Test Build"
+level_beach = "Pineapple Beach"
+level_grinch = "Grinch Race"
+level_snickchallenge = "Snick's Challenge"
+level_dragonlair = "Dragon's Lair WIP"
+level_city = "Pizzaboy's Pizzaland WIP"
+level_desert = "Oregano Badlands WIP"
+level_ancient = "Ancient Tower WIP"
+level_mansion = "Eggplant Mansion WIP"
+level_aprilmansion = "April Mansion WIP"
+level_oldmansion = "Pepper Mansion WIP"
+level_oldexit = "Exit WIP"
+level_golf = "Minigolf WIP"
+level_oldsewer = "Old Shit! WIP"
+level_oldfreezer = "Noiserator-Refrigerator WIP"
+level_pinball = "Space Pinball WIP"
+level_oldfactory = "Cheesybot Factory WIP"
+level_top = "Top WIP"
+level_factory = "April Factory WIP"
+
+level_whitespace = "What Lies Beyond?"
+level_custom = "Custom Levels"
+level_midway = "Midway"
+
+level_entryway = "Crunchy Construction"
+level_steamy = "Cottontown"
+level_molasses = "Molasses Swamp"
+level_sucrose = "Sucrose Snowstorm"

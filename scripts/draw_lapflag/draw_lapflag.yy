@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_lapflag",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_lapflag",
+  "parent":{
+    "name":"HUD",
+    "path":"folders/Scripts/CheesyPizza/HUD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"check_sugary",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"check_sugary",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/CheesyPizza/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

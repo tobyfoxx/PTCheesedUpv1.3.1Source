@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_sprite_safe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_sprite_safe",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Scripts/CheesyPizza/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

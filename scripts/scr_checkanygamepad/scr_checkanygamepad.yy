@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_checkanygamepad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_checkanygamepad",
+  "parent":{
+    "name":"Input",
+    "path":"folders/Scripts/Systems/Input.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_do_rank",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_do_rank",
+  "parent":{
+    "name":"Utilities",
+    "path":"folders/Scripts/General/Utilities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

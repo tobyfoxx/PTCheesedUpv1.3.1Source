@@ -1,0 +1,49 @@
+{
+  "$GMTileSet":"",
+  "%Name":"tile_dirt_tileset",
+  "autoTileSets":[],
+  "ConfigValues":{
+    "debug":{
+      "textureGroupId":"{\"name\":\"tg_tower\",\"path\":\"texturegroups/tg_tower\"}",
+    },
+  },
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tile_dirt_tileset",
+  "out_columns":6,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Early Test Build",
+    "path":"folders/Tile Sets/CheesyPizza/Early Test Build.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"tile_dirt",
+    "path":"sprites/tile_dirt/tile_dirt.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"etbgroup",
+    "path":"texturegroups/etbgroup",
+  },
+  "tileAnimation":{
+    "FrameData":[
+      0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,
+    ],
+    "SerialiseFrameCount":1,
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":32,
+}

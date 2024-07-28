@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"respawn_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"respawn_player",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/CheesyPizza/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

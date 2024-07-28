@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_keyfromname",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_keyfromname",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/CheesyPizza/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

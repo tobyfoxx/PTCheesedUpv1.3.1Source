@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"vertex_build_quad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vertex_build_quad",
+  "parent":{
+    "name":"Vertex",
+    "path":"folders/Scripts/CheesyPizza/Utility/Vertex.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

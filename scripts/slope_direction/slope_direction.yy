@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"slope_direction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"slope_direction",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/CheesyPizza/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

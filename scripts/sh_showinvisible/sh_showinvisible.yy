@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sh_showinvisible",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sh_showinvisible",
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Scripts/CheesyPizza/Shell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

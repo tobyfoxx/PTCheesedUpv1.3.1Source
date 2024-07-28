@@ -6,7 +6,10 @@
     v1.3.1 Source Code
 </h1>
 
-### (Dated April 8th 2024)
+<h3 align="center">
+	(Dated April 8th 2024)
+</h3>
+
 ## yahoo! this time it's actually IN THE FUCKING CODE REPOSITORY DUDE IT'S NOT THAT FUCKING HARD
 
 ## REQUIREMENTS TO RUN

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"e_out",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"e_out",
+  "parent":{
+    "name":"CheesyPizza",
+    "path":"folders/Scripts/CheesyPizza.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
