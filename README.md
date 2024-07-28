@@ -12,8 +12,12 @@
 
 ## yahoo! this time it's actually IN THE FUCKING CODE REPOSITORY DUDE IT'S NOT THAT FUCKING HARD
 
-## REQUIREMENTS TO RUN
+## REQUIREMENTS TO BUILD
 * GameMaker Studio 2 (version 2024.2) [<u>Download Link</u>](https://gms.yoyogames.com/GameMaker-Installer-2024.2.0.132.exe)
 * Cheesed Up's FMOD Studio Banks  [<u>Download Link</u>](https://mega.nz/file/FEtVlBgb#nHsFBoPzUIZCY9-oEjw8Y54T-JrHSAHNK-RL4LYOjqM) [<u>Source</u>](https://github.com/femloy/CheesedUP-FMOD)
 ## OPTIONAL BUT HELPFUL
 * FMOD Studio [<u>Download Link</u>](https://mega.nz/file/xQFgHBCY#b2RQHjub1-BpUvVPC02uJAHHzOk3XYDKRcfYfvVyEDE) [<u>Website</u>](https://www.fmod.com/download#fmodstudio)
+## CREDITS
+* <b>Tour de Pizza</b> - For Pizza Tower.
+* <b>Token Studios</b> - For all the modded/stolen content.
+* <b>James/septumfunk</b> - For leaking this version of the source code.
